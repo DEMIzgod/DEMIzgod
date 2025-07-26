@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi there 👋, I'm [Your Name]
 
-<!--
-**DEMIzgod/DEMIzgod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BCA Graduate  
+💻 MERN Stack Enthusiast  
+🛠️ Focused on Backend Development & API Integration  
+🚀 Eager to Learn, Build & Contribute
 
-Here are some ideas to get you started:
+## 🧰 Tech Stack
+- 💻 JavaScript, HTML, CSS
+- ⚛️ React, Node.js, Express.js
+- 🗄️ MongoDB
+- 📦 Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📈 GitHub Stats
+![YourName's GitHub stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)
+
+## 📫 Let's Connect
+[LinkedIn](https://linkedin.com/in/your-profile) • [Portfolio](https://yourportfolio.com)
