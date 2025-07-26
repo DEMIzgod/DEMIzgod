@@ -23,53 +23,57 @@
 
 <h1 align="center">About Me</h1>
 
-<p align='center>I'm a BCA graduate passionate about backend and API development using the MERN stack.  
-I enjoy solving real-world problems through code and building full-stack applications.  
-Explore more about me at [a2d bLOG](https://a2d-blog.onrender.com/)</p>
+<p align="center">
+  I'm a BCA graduate passionate about backend and API development using the MERN stack.<br>
+  I enjoy solving real-world problems through code and building full-stack applications.<br>
+  Explore more about me at <a href="https://a2d-blog.onrender.com/" target="_blank">a2d bLOG</a>.
+</p>
+
 
 ---
+
+<h2 align='center'><i>Languages and Tools</i></h2>
 
 <h2 align='center'><i>Languages and Tools</i></h2>
 
 <table width="100%">
   <tr>
     <td align='center' width="190">
-      <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" height="60">
+      <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" height="60" />
     </td>
     <td align='center' width="190">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60" />
     </td>
     <td align='center' width="190">
-      <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg" height="60">
+      <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg" height="60" />
     </td>
     <td align='center' width="190">
-      <img src="https://raw.githubusercontent.com/KRITHIKus/assets/main/render-logo.svg" width="80"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/render/render-original.svg" width="60" />
     </td>
-        <td align='center' width="190">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60"/>
+    <td align='center' width="190">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60" />
     </td>
   </tr>
 
   <tr>
     <td align='center' width="190">
-      <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" height="60">
+      <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" height="60" />
     </td>
     <td align='center' width="190">
-      <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg" height="60">
+      <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg" height="60" />
     </td>
     <td align='center' width="190">
-      <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg" height="60">
+      <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg" height="60" />
     </td>
     <td align='center' width="190">
-      <img src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg" height="60">
+      <img src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg" height="60" />
     </td>
-        <td align='center' width="190">
-      <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="60"/>
+    <td align='center' width="190">
+      <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="60" />
     </td>
-
-
   </tr>
 </table>
+
 
 
 ---
@@ -77,8 +81,8 @@ Explore more about me at [a2d bLOG](https://a2d-blog.onrender.com/)</p>
 <h2 align='center'><i>Top Repos</i></h2>
 
 <p align="center">
-  <a href="https://github.com/KRITHIKus/mern-blog">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=KRITHIKus&repo=mern-blog&theme=vue-dark&hide_border=true" height="185" />
+  <a href="https://github.com/KRITHIKus/safelink">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=KRITHIKus&repo=safelink&theme=radical_border=true" height="185" />
   </a>
 </p>
 
@@ -89,7 +93,7 @@ Explore more about me at [a2d bLOG](https://a2d-blog.onrender.com/)</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=KRITHIKus&show_icons=true&theme=radical" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=KRITHIKus&theme=radical&hide_border=false" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=KRITHIKus&theme=radical&hide_border=true" />
 </p>
 
 
