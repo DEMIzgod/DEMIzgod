@@ -1,4 +1,5 @@
 <h1 align="center">Hi, I'm Krithik U S</h1>
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=20&duration=3000&pause=1000&center=true&vCenter=true&width=500&lines=BCA+Graduate;MERN+Stack+Enthusiast;Backend+%26+API+Developer;AI+%7C+ML+Beginner" />
 </p>
@@ -18,21 +19,20 @@
   </a>
 </p>
 
----
 <br>
+
 <h1 align="center">About Me</h1>
+
 <p align="center">
   I'm a BCA graduate passionate about backend and API development using the MERN stack.<br>
   I enjoy solving real-world problems through code and building full-stack applications.<br>
   Explore more about me at <a href="https://a2d-blog.onrender.com/" target="_blank">a2d bLOG</a>.
 </p>
 
-
----
-
-
 <br>
+
 <h2 align='center'><i>Languages and Tools</i></h2>
+
 <table width="100%">
   <tr>
     <td align='center' width="190" height="100">
@@ -71,25 +71,21 @@
   </tr>
 </table>
 
-
-
-<br> 
----
+<br>
 
 <h2 align='center'><i>Top Repos</i></h2>
+
 <p align="center">
   <a href="https://github.com/KRITHIKus/safelink">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=KRITHIKus&repo=safelink&theme=radical&hide_border=true" height="185" />
   </a>
 </p>
 
-
----
 <br>
+
 <h2 align='center'><i>GitHub Stats</i></h2>
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=KRITHIKus&show_icons=true&theme=radical&hide_border=true" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=KRITHIKus&theme=radical&hide_border=true" />
 </p>
-
-
