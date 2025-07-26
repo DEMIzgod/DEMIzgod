@@ -32,7 +32,7 @@
 
 ---
 
-<h2 align='center'><i>Languages and Tools</i></h2>
+
 
 <h2 align='center'><i>Languages and Tools</i></h2>
 
@@ -82,7 +82,7 @@
 
 <p align="center">
   <a href="https://github.com/KRITHIKus/safelink">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=KRITHIKus&repo=safelink&theme=radical_border=true" height="185" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=KRITHIKus&repo=safelink&theme=radical&hide_border=true" height="185" />
   </a>
 </p>
 
@@ -92,7 +92,7 @@
 <h2 align='center'><i>GitHub Stats</i></h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KRITHIKus&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=KRITHIKus&show_icons=true&theme=radical&hide_border=true" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=KRITHIKus&theme=radical&hide_border=true" />
 </p>
 
