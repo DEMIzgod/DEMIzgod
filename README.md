@@ -21,7 +21,7 @@
 
 ---
 
-### About Me
+<h1 align="center">About Me</h1>
 
 I'm a BCA graduate passionate about backend and API development using the MERN stack.  
 I enjoy solving real-world problems through code and building full-stack applications.  
@@ -29,34 +29,43 @@ Explore more about me at [a2d-blog.onrender.com](https://a2d-blog.onrender.com/)
 
 ---
 
-### Tools & Technologies
+<h2 align='center'><i>Languages and Tools</i></h2>
 
-<p align="center">
-  <table align="center">
-    <tr>
-      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" /><br>JavaScript</td>
-      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" /><br>React</td>
-      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" /><br>Node.js</td>
-      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" /><br>Express</td>
-    </tr>
-    <tr>
-      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" /><br>MongoDB</td>
-      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" /><br>Python</td>
-      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40" /><br>Flask</td>
-      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" /><br>Firebase</td>
-    </tr>
-    <tr>
-      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" /><br>HTML5</td>
-      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" /><br>CSS3</td>
-      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" /><br>Git</td>
-      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" /><br>GitHub</td>
-    </tr>
-  </table>
-</p>
+<table width="100">
+
+<tr>
+     <td align='center' width="190">
+        <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg">
+    </td>
+    <td align='center' width="190">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60"/>
+    </td>
+    <td align='center' width="190">
+        <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg">
+    </td>
+  <td align='center' width="190">
+     <img src="https://www.vectorlogo.zone/logos/render/render-icon.svg" width="60" />
+  </td>
+</tr>
+<tr>
+      <td align='center' width="190">
+        <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg">
+    </td>
+    <td align='center' width="190">
+        <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg">
+    </td>
+    <td align='center' width="190">
+        <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg">
+    </td>
+    <td align='center' width="190">
+        <img src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg">
+    </td>
+</tr>
+</table>
 
 ---
 
-## Top Repos
+<h2 align='center'><i>Top Repos</i></h2>
 
 <p align="center">
   <a href="https://github.com/KRITHIKus/mern-blog">
@@ -67,17 +76,11 @@ Explore more about me at [a2d-blog.onrender.com](https://a2d-blog.onrender.com/)
 
 ---
 
-### GitHub Stats
+<h2 align='center'><i>GitHub Stats</i></h2>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=KRITHIKus&show_icons=true&theme=radical" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=KRITHIKus&theme=radical&hide_border=false" />
 </p>
 
----
 
-### Languages Used
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KRITHIKus&layout=compact&theme=radical" />
-</p>
