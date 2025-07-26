@@ -1,9 +1,9 @@
 <h2 align='center'><i>Languages and Tools</i></h2>
 
-<table align="center" width="100%>
+<table align="center" width="100%">
   <tr>
     <td align="center" width="190">
-      <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" height="50" title="TypeScript" />
+      <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" height="60" title="TypeScript" />
     </td>
     <td align="center" width="190">
       <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" height="50" title="JavaScript" />
@@ -35,4 +35,4 @@
       <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" height="50" title="Tailwind CSS" />
     </td>
   </tr>
-</table> 
+</table>
