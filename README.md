@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Krithik US</h1>
+<h1 align="center">Hi, I'm Krithik U S</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=20&duration=3000&pause=1000&center=true&vCenter=true&width=500&lines=BCA+Graduate;MERN+Stack+Enthusiast;Backend+%26+API+Developer;AI+%7C+ML+Beginner" />
@@ -23,45 +23,54 @@
 
 <h1 align="center">About Me</h1>
 
-I'm a BCA graduate passionate about backend and API development using the MERN stack.  
+<p align='center>I'm a BCA graduate passionate about backend and API development using the MERN stack.  
 I enjoy solving real-world problems through code and building full-stack applications.  
-Explore more about me at [a2d-blog.onrender.com](https://a2d-blog.onrender.com/)
+Explore more about me at [a2d bLOG](https://a2d-blog.onrender.com/)</p>
 
 ---
 
 <h2 align='center'><i>Languages and Tools</i></h2>
 
-<table width="100">
+<table width="100%">
+  <tr>
+    <td align='center' width="190">
+      <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" height="60">
+    </td>
+    <td align='center' width="190">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60"/>
+    </td>
+    <td align='center' width="190">
+      <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg" height="60">
+    </td>
+    <td align='center' width="190">
+      <img src="https://raw.githubusercontent.com/KRITHIKus/assets/main/render-logo.svg" width="80"/>
+    </td>
+        <td align='center' width="190">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60"/>
+    </td>
+  </tr>
 
-<tr>
-     <td align='center' width="190">
-        <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg">
+  <tr>
+    <td align='center' width="190">
+      <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" height="60">
     </td>
     <td align='center' width="190">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60"/>
+      <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg" height="60">
     </td>
     <td align='center' width="190">
-        <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg">
-    </td>
-  <td align='center' width="190">
-     <img src="https://www.vectorlogo.zone/logos/render/render-icon.svg" width="60" />
-  </td>
-</tr>
-<tr>
-      <td align='center' width="190">
-        <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg">
+      <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg" height="60">
     </td>
     <td align='center' width="190">
-        <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg">
+      <img src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg" height="60">
     </td>
-    <td align='center' width="190">
-        <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg">
+        <td align='center' width="190">
+      <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="60"/>
     </td>
-    <td align='center' width="190">
-        <img src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg">
-    </td>
-</tr>
+
+
+  </tr>
 </table>
+
 
 ---
 
